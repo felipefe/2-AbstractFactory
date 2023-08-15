@@ -1,0 +1,15 @@
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\bin\Debug\net6.0\2-AbstractFactory.exe
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\bin\Debug\net6.0\2-AbstractFactory.deps.json
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\bin\Debug\net6.0\2-AbstractFactory.runtimeconfig.json
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\bin\Debug\net6.0\2-AbstractFactory.dll
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\bin\Debug\net6.0\2-AbstractFactory.pdb
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.csproj.AssemblyReference.cache
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.AssemblyInfoInputs.cache
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.AssemblyInfo.cs
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.csproj.CoreCompileInputs.cache
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.dll
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\refint\2-AbstractFactory.dll
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.pdb
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\2-AbstractFactory.genruntimeconfig.cache
+d:\Documents\VSCode\Design Pattern Macorati\2-AbstractFactory\obj\Debug\net6.0\ref\2-AbstractFactory.dll
